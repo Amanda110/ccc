@@ -11,8 +11,7 @@ public class Ex3_Decompressions {
 		
 		for (int i = 0; i < L; i++)
 		{
-			sc.nextInt();
-			sc.nextLine();
+			
 		}
 		
 		
