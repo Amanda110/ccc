@@ -22,6 +22,11 @@ public class problemJ1 {
 		System.out.println("tirs à 1 point pour l'équipe b");
 		b1=sc.nextInt();
 		
+		a3*=3;
+		a2*=2;
+		b3*=3;
+		b2*=2;
+		
 		if (a3 + a2 + a1 < b3 + b2 + b1)
 			System.out.println ("B");
 		else if(a3 + a2 + a1 > b3 + b2 + b1)
